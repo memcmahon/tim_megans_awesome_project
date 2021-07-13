@@ -4,4 +4,8 @@ class Unicorn
     @name = name
     @special_powers = special_powers
   end
+
+  def perform_magic
+    'abbracadabra'
+  end
 end
